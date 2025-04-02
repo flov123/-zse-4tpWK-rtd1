@@ -72,7 +72,7 @@ Obraz
 ======
 
 .. image:: https://ramiz.pl/19301-superlarge_default/pojazd-perfecta-czerwony.jpg
-   :alt: real sigma (to ja)
+ 
 
 Tabela
 =======
