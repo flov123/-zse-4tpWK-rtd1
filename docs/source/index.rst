@@ -71,7 +71,7 @@ Termin 2
 Obraz
 ======
 
-.. image:: sciezka/do/obrazu.png
+.. image:: /home/k4tp1/Pulpit/car.png
    :alt: Alternatywny tekst obrazu
    :align: center
    :figcaption: Podpis pod obrazkiem
