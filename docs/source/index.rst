@@ -71,7 +71,7 @@ Termin 2
 Obraz
 ======
 
-.. image:: https://get.szurag.pl/tidy/sigma.gif
+.. image:: https://ramiz.pl/19301-superlarge_default/pojazd-perfecta-czerwony.jpg
    :alt: real sigma (to ja)
 
 Tabela
