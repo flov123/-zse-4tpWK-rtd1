@@ -1,22 +1,87 @@
-Welcome to Lumache's documentation!
-===================================
+===========================
+ Nagłówki tekstowe
+===========================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Nagłówek 2
+---------------------------
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Nagłówek 3
+^^^^^^^^^^
+
+Nagłówek 4
+""""""""""
+
+Akapit tekstowy
+================
+
+To jest przykładowy akapit tekstowy w reStructuredText.
+
+Akapity informacyjne
+======================
 
 .. note::
 
-   This project is under active development.
+   To jest przykładowa informacja typu "Note".
 
-Contents
---------
+.. tip::
 
-.. toctree::
+   To jest przykładowa wskazówka typu "Tip".
 
-   usage
-   api
+Fragmenty kodu
+================
+
+Kod liniowy: ``print("Hello, world!")``
+
+Blokowy fragment kodu::
+
+   def funkcja():
+       print("Blokowy kod")
+
+Odnośniki
+===========
+
+Odnośnik lokalny w Read the Docs:
+
+:ref:`nazwa-sekcji`
+
+Odnośnik zewnętrzny:
+
+`Google <https://www.google.com>`_
+
+Listy
+======
+
+Lista numerowana:
+
+#. Pierwszy element
+#. Drugi element
+
+Lista wypunktowana:
+
+- Pierwszy punkt
+- Drugi punkt
+
+Lista definicji:
+
+Termin 1
+   Definicja terminu 1
+Termin 2
+   Definicja terminu 2
+
+Obraz
+======
+
+.. image:: sciezka/do/obrazu.png
+   :alt: Alternatywny tekst obrazu
+   :align: center
+   :figcaption: Podpis pod obrazkiem
+
+Tabela
+=======
+
++--------------+-------------+
+| Kolumna 1    | Kolumna 2   |
++==============+=============+
+| Wiersz 1     | Dane        |
+| Wiersz 2     | Więcej danych |
++--------------+-------------+
