@@ -71,10 +71,8 @@ Termin 2
 Obraz
 ======
 
-.. image:: /home/k4tp1/Pulpit/car.png
-   :alt: Alternatywny tekst obrazu
-   :align: center
-   :figcaption: Podpis pod obrazkiem
+.. image:: https://get.szurag.pl/tidy/sigma.gif
+   :alt: real sigma (to ja)
 
 Tabela
 =======
